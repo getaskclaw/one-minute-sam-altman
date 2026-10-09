@@ -1,24 +1,32 @@
 # one-minute-sam-altman
 
-为 ADHD 大脑设计的一分钟学习法 × [Sam Altman 博客](https://blog.samaltman.com/)（Posthaven 托管，121 篇，2013–2026）的精读笔记与语料。
+**每天 1 分钟，学完 Sam Altman 博客里最值钱的想法。**
 
-## 内容
+我们把 [blog.samaltman.com](https://blog.samaltman.com) 全部 121 篇文章（2013–2026）读完，
+提炼出 60+ 条金句，再拆成 **77 个一分钟内能做完的小任务**。
 
-- **`GEMS.md`** — 金句集：按主题整理，每条链回原文
-- **`LESSONS.md`** — 逐条精读（中文讲解）：原文 + 翻译 + 解读 + 怎么用，每条 1 分钟读完
-- **`posts.json`** — 全量语料：121 篇文章的标题、URL、发布日期和 HTML 正文
-- **`track-sam/`** — ≤1 分钟微学习路线（adaptive-microlearning 规范）：`TASKS.md` 77 个任务、`PROGRESS.md` 进度真相源
-- **`NOW.md`** — 全局当前任务指针
+## 怎么用
 
-## 数据来源
+1. 打开 [`NOW.md`](NOW.md) 看当前任务
+2. 到 [`track-sam/TASKS.md`](track-sam/TASKS.md) 做它（≤1 分钟）
+3. 做完打勾 —— 进度自动记在 [`track-sam/PROGRESS.md`](track-sam/PROGRESS.md)
 
-内容镜像自公开 Atom feed（`https://blog.samaltman.com/posts.atom`）及各文章页面。语料结构：
+不想走任务路线？直接翻 [`LESSONS.md`](LESSONS.md)：每条金句配中文讲解，1 分钟读完一条。
+只要金句不要讲解 → [`GEMS.md`](GEMS.md)。
 
-```json
-[{ "title": "...", "url": "...", "published": "YYYY-MM-DD", "content": "<html>", "content_len": 1234 }]
-```
+## 文件
 
-博客原文版权归 Sam Altman 所有，本仓仅作阅读/研究辅助。
+| 文件 | 是什么 |
+|---|---|
+| `track-sam/` | 学习路线：任务 + 进度 |
+| `NOW.md` | 当前该做哪个任务 |
+| `LESSONS.md` | 70 条精读笔记（中文） |
+| `GEMS.md` | 60+ 金句原文，各带原文链接 |
+| `posts.json` | 121 篇全文语料（给程序用） |
+
+## 来源
+
+文章来自公开 feed `blog.samaltman.com/posts.atom`，原文版权归 Sam Altman 所有，本仓仅作学习笔记。
 
 ---
 

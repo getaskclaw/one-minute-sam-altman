@@ -1,19 +1,29 @@
 # one-minute-sam-altman
 
-A one-minute learning method designed for ADHD brains × notes and data from [blog.samaltman.com](https://blog.samaltman.com) — Sam Altman's personal blog (Posthaven-hosted, 121 posts, 2013–2026).
+**Learn the best ideas from Sam Altman's blog, one minute at a time.**
 
-## Contents
+We read all 121 posts on [blog.samaltman.com](https://blog.samaltman.com) (2013–2026),
+distilled 60+ quotes worth keeping, and split them into **77 tasks that each take under a minute**.
 
-- **`GEMS.md`** — curated quotes, organized by theme, each linked to its source post
-- **`LESSONS.md`** — 逐条精读（中文讲解）：原文 + 翻译 + 解读 + 怎么用 — each entry readable in one minute
-- **`posts.json`** — full corpus: title, URL, publish date, and HTML content for all 121 posts
+## How to use it
 
-## Data source
+1. Open [`NOW.md`](NOW.md) to see the current task
+2. Do it in [`track-sam/TASKS.md`](track-sam/TASKS.md) (≤1 minute)
+3. Check the box — progress lives in [`track-sam/PROGRESS.md`](track-sam/PROGRESS.md)
 
-Content mirrored from the public Atom feed (`https://blog.samaltman.com/posts.atom`) and post pages. Corpus structure:
+Prefer just reading? [`GEMS.md`](GEMS.md) has every quote with a link to its source post.
+The study guide ([`LESSONS.md`](LESSONS.md)) is in Chinese.
 
-```json
-[{ "title": "...", "url": "...", "published": "YYYY-MM-DD", "content": "<html>", "content_len": 1234 }]
-```
+## Files
 
-Blog content copyright Sam Altman. This repo is a reading/research aid.
+| File | What it is |
+|---|---|
+| `track-sam/` | The learning track: tasks + progress |
+| `NOW.md` | Which task is current |
+| `LESSONS.md` | 70 annotated lessons (中文) |
+| `GEMS.md` | 60+ quotes, each linked to its post |
+| `posts.json` | Full corpus of all 121 posts |
+
+## Source
+
+Posts mirrored from the public feed `blog.samaltman.com/posts.atom`. Content copyright Sam Altman; this repo is a study aid.
