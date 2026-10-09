@@ -395,3 +395,69 @@
 - [ ] **SAM-0097 · 应用**
   > "Companies that look bad now can look great with 6 months of progress."
   你手上有一个被拒绝的项目，接下来做什么？写一句话，选择：`放弃` / `6 个月后再申请` / 其他（请写明）。
+
+## 阶段 11 · 投资与泡沫（SAM-0098 → 0114）
+
+- [ ] **SAM-0098 · 解释**
+  > "It’s common to make more money from your single best angel investment than all the rest put together."
+  用自己的话说：文章认为天使投资里真正的风险是什么？一句话。
+
+- [ ] **SAM-0099 · 读断**
+  > "All this does is piss founders off, misalign incentives, and harm the investors’ chance of getting to invest in the best deals"
+  文章认为，给投资人加严苛条款，最大的损失是什么？回复一个词：`赚得少` / `错过最好的项目`。
+
+- [ ] **SAM-0100 · 应用**
+  想一笔你最近的投入（钱或时间）：它是为了避免失败，还是为了不错过最好的结果？一句话。
+
+- [ ] **SAM-0101 · 读断**
+  > "If you’re a real company, a downturn that you’re prepared for can be beneficial."
+  按这条，遇到行情下行时，哪一类公司会受益？回复 `做好准备的真公司` / `所有公司`。
+
+- [ ] **SAM-0102 · 应用**
+  > "The only thing that is cheap during a startup bubble is capital."
+  你的公司账上的钱能撑多少个月？写一个数字（月数），并写一条不靠融资也能盈利的计划（一句话）。
+
+- [ ] **SAM-0103 · 解释**
+  > "Although they cause a lot of handwringing, business cycles are short compared to the arc of innovation."
+  用自己的话说：作者为什么不把周期性下跌当作判断长期价值的主要依据？一句话。
+
+- [ ] **SAM-0104 · 边界**
+  > "Investors that think companies are overpriced are always free not to invest."
+  什么样的投资人，不能简单地"不投"就避开风险？一句话。
+
+- [ ] **SAM-0105 · 回忆**
+  不看原文：作者用什么方法回应"我们处于泡沫"的说法？一句话。
+
+- [ ] **SAM-0106 · 边界**
+  > "Someday they’ll be right, but in the meantime"
+  单凭"我们处于泡沫"这句话，能否帮你决定要不要融资或扩张？回复 `能` / `不能`，加一句理由。
+
+- [ ] **SAM-0107 · 解释**
+  > "Maybe instead of a tech bubble, we’re in a tech bust."
+  用自己的话说："泡沫"和"崩盘"两种判断，各自意味着什么？一句话。
+
+- [ ] **SAM-0108 · 应用**
+  > "These exceptions get all the attention"
+  读科技新闻时，你会用什么数据判断某一类公司是否普遍出问题？写下一个数据名称。
+
+- [ ] **SAM-0109 · 解释**
+  > "Most great companies historically have had good unit economics soon after they began monetizing, even if the company as a whole lost money for a long period of time."
+  用自己的话说：文章用什么早期信号判断一家公司是否健康？一句话。
+
+- [ ] **SAM-0110 · 应用**
+  你的公司（或假想的公司）每获得一个客户：获客成本是多少？这个客户能带来多少利润？写两个数字。
+
+- [ ] **SAM-0111 · 读断**
+  > "A currency without the major use case being legitimate transactions is going to fail."
+  按作者的判断，一种货币能否存活，关键看什么？回复一个词：`投机量` / `合法交易量`。
+
+- [ ] **SAM-0112 · 回忆**
+  不看原文：文章列出了让比特币持续承受卖压的原因。写出其中一个。
+
+- [ ] **SAM-0113 · 应用**
+  > "When in doubt, you will never get in trouble for defining the way you’re using a financial term too precisely."
+  你的 pitch deck 里有一个"收入"的数字。写下你会用的精确定义（一句话）。
+
+- [ ] **SAM-0114 · 应用**
+  > "Taking uberX everywhere is now cheaper for me than owning a car"
+  选一项你的大开支（车、房、订阅等），用同样的方法算一下"租用"和"拥有"哪个划算。写一句结论。
