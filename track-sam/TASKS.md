@@ -316,3 +316,82 @@
 
 - [ ] **SAM-0077 · 回忆（毕业测）**
   不看原文：说出整个课程里**对你此刻最有用**的一条金句 + 你会在什么时候用它。两句话。
+
+## 阶段 10 · 创业与融资（SAM-0078 → 0097）
+
+- [ ] **SAM-0078 · 应用**
+  > "Having at least one investor very focused on your company is valuable, even if the investor is not very good."
+  你的 A 轮只能选一个投资人：A 很专注但能力一般；B 能力很强但几乎不过问。按这条选哪个？回复 `A` 或 `B` 加一句原因。
+
+- [ ] **SAM-0079 · 回忆**
+  不看原文：文章说，有一种 party round 的形式是有效的。它靠什么机制让公司保持专注？一句话。
+
+- [ ] **SAM-0080 · 读断**
+  > "Most employees only have 90 days after they leave a job to exercise their options."
+  按文章的描述，员工离职后通常只有多少天来行权？回复一个数字。
+
+- [ ] **SAM-0081 · 解释**
+  > "New hires benefit everyone and should dilute everyone."
+  用自己的话说：为什么文章反对只让创始人承担新员工的稀释？一句话。
+
+- [ ] **SAM-0082 · 读断**
+  > "Option pools are complete fiction; boards can increase them whenever they want."
+  董事会觉得期权池不够，能不能直接扩大？回复 `能` / `不能`，加一句理由。
+
+- [ ] **SAM-0083 · 应用**
+  > "I think a company ought to be giving at least 10% in total to the first 10 employees, 5% to the next 20, and 5% to the next 50."
+  如果公司总股本是 100 股，按这条建议，前 10 名员工合计至少应拿多少股？回复一个数字。
+
+- [ ] **SAM-0084 · 解释**
+  > "Companies build value over very long periods of time, and it's important to have an organizational memory in place while it happens."
+  用自己的话说："组织记忆"指什么？为什么早期员工离职可能造成无法挽回的损失？一句话。
+
+- [ ] **SAM-0085 · 应用**
+  > "I'd go so far as to say that a company that is not mission-oriented will have a hard time being really successful because of talent retention problem."
+  用一句话写下你所在团队（或你想组建的团队）最能留住人的一个理由。
+
+- [ ] **SAM-0086 · 解释**
+  > "The number of good startups is increasing every year, but not as fast as the investment dollars are."
+  这句话解释了估值偏高的哪一个原因？一句话。
+
+- [ ] **SAM-0087 · 边界**
+  文章认为估值偏高的一个原因是利率接近零，资金只能去找更高的回报。如果利率大幅上升，你预计估值会往哪个方向走？一句话（只要说出方向和理由）。
+
+- [ ] **SAM-0088 · 读断**
+  > "It's actually quite simple; if you have a good company, you will probably be able to raise money."
+  如果公司本身不够好，文章建议把时间花在哪里？回复一个词：`融资技巧` / `让公司变好`。
+
+- [ ] **SAM-0089 · 应用**
+  > "Set up a competitive environment."
+  你同时在和三个投资人谈，想让他们互相竞争。你会怎样安排它们的时间线？一句话。
+
+- [ ] **SAM-0090 · 解释**
+  > "Founders’ desire for control is good in moderation but hurts companies when it gets taken to extremes."
+  用自己的话说："适度"和"极端"的界线在哪里？文章没有给精确数字，你会怎么判断？一句话。
+
+- [ ] **SAM-0091 · 回忆**
+  不看原文：文章推荐的早期公司董事会结构是几人？分别由哪些人组成？一句话。
+
+- [ ] **SAM-0092 · 读断**
+  > "But great advice does not have to come from venture capitalists; it often comes from people like former founders."
+  如果想找好建议，文章说应该去找哪一类人？回复一个身份。
+
+- [ ] **SAM-0093 · 回忆**
+  不看原文：文章提到，把"建议"和"钱"分开，有一个负面后果，是顾问可能会怎样？一句话。
+
+- [ ] **SAM-0094 · 解释**
+  > "Failing sucks—there is no way to sugarcoat that."
+  > "But startups are not life-and-death matters—it’s just work."
+  作者同时说了两件事，它们分别是什么？为什么要同时说？一句话。
+
+- [ ] **SAM-0095 · 应用**
+  > "You’ll be surprised how much better you feel just by talking to people about the struggles you’re facing instead of saying “we’re crushing it”."
+  这周你准备和谁说一件真实的困难？写下对方的身份（不必写名字），一句话。
+
+- [ ] **SAM-0096 · 读断**
+  > "The best startups often look bad at this stage, and we make mistakes."
+  YC 拒绝一家公司时，哪一种判断可能是错的？回复 `被拒的公司都不好` / `好公司也可能被拒`。
+
+- [ ] **SAM-0097 · 应用**
+  > "Companies that look bad now can look great with 6 months of progress."
+  你手上有一个被拒绝的项目，接下来做什么？写一句话，选择：`放弃` / `6 个月后再申请` / 其他（请写明）。
