@@ -651,3 +651,72 @@
 - [ ] **SAM-0163 · 应用**
   > "No matter what you choose, build stuff and be around smart people."
   你这周能做的一件具体的东西是什么？写一句话。
+
+## 阶段 14 · 增长、经济与人（SAM-0164 → 0181）
+
+- [ ] **SAM-0164 · 解释**
+  > "Either you’re growing, or you’re slowly dying."
+  用自己的话说：作者为什么认为"停止增长"等于慢慢死亡？一句话。
+
+- [ ] **SAM-0165 · 边界**
+  > "Perfect equilibrium is rare."
+  这句话对你判断"一家稳定的公司是否健康"有什么启发？一句话。
+
+- [ ] **SAM-0166 · 回忆**
+  不看原文：文章说明的两类问题，第二类是什么？一句话。
+
+- [ ] **SAM-0167 · 应用**
+  想一个有潜力但从未创业的人。你能为他做的一件具体的事是什么？写一句话。
+
+- [ ] **SAM-0168 · 解释**
+  > "everyone starting a startup for the first time is scared"
+  用自己的话说：作者为什么认为"第一次创业的人都害怕"是正常的？一句话。
+
+- [ ] **SAM-0169 · 应用**
+  你身边有没有一个你觉得"现在很厉害、但以前很普通"的人？写下他的身份，一句话说明他当初是什么样。
+
+- [ ] **SAM-0170 · 解释**
+  > "This question cannot be answered with a yes or a no"
+  用自己的话说：作者为什么不直接回答"创新放缓了吗"？一句话。
+
+- [ ] **SAM-0171 · 边界**
+  作者说创新在一些领域放缓了，在另一些领域却比预想的快。你怎么判断一个具体领域是快还是慢？一句话。
+
+- [ ] **SAM-0172 · 解释**
+  > "A long time ago, differences in ability and work ethic had a linear effect on wealth; now it’s exponential."
+  用自己的话说：技术如何改变了能力差异对财富的影响？一句话。
+
+- [ ] **SAM-0173 · 应用**
+  > "Technology makes wealth inequality worse by giving people leverage and compounding differences in ability and amount of work."
+  你的项目或产品，是放大少数人的能力，还是让更多人都能用上？写一句话。
+
+- [ ] **SAM-0174 · 解释**
+  > "Most of these issues would be not so bad by themselves; the problem is that we have all of them in aggregate."
+  用自己的话说：作者为什么担心这些问题？一句话。
+
+- [ ] **SAM-0175 · 边界**
+  > "Debt like this is maybe ok if the economy is growing fast, but ours is not."
+  什么情况下，高额政府债务是可以接受的？一句话。
+
+- [ ] **SAM-0176 · 回忆**
+  不看原文：YC 的使命是什么？一句话。
+
+- [ ] **SAM-0177 · 应用**
+  > "We believe new technology, economic growth, and new ideas about how our society might function are more important than ever before."
+  你的想法或工作，属于"新技术、经济增长、社会新想法"中的哪一类？写一句话。
+
+- [ ] **SAM-0178 · 读断**
+  > "Every successful startup I know has at least one person who provides the force of will to make the startup happen."
+  按作者的说法，成功的创业公司通常需要哪一种人？回复一个词：`技术最强的人` / `意志力强的人`。
+
+- [ ] **SAM-0179 · 解释**
+  > "I now have an answer: Greg Brockman."
+  用自己的话说：作者为什么用 Greg 作为"理想联合创始人"的例子？一句话。
+
+- [ ] **SAM-0180 · 解释**
+  > "Anonymity breeds meanness"
+  用自己的话说：作者为什么担心匿名社交网络？一句话。
+
+- [ ] **SAM-0181 · 应用**
+  > "If Secret becomes more of a confessional than a burn-book, it can probably thrive."
+  如果你在设计一个社区，你会定一条什么规则，避免它变成"烧书"（恶意攻击他人）？写一条规则。
