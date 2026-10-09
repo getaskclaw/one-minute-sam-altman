@@ -1,6 +1,6 @@
-# one-minute-sam-altman
+# 一分钟读懂 Sam Altman
 
-**每次 1 分钟，学 Sam Altman 博客里最值钱的想法。**
+**每个任务一分钟，慢慢读懂 Sam Altman 博客里的想法。**
 
 我们梳理了 [blog.samaltman.com](https://blog.samaltman.com) 的 121 篇文章（2013–2026），
 从中提炼出 85 条金句，再拆成 **204 个一分钟内能做完的小任务**。
