@@ -542,3 +542,112 @@
 
 - [ ] **SAM-0135 · 应用**
   文章列出了多个"当年被认为不会成功"的预测案例。下次你听到"某技术永远做不成"时，你会问自己什么问题？一句话。
+
+## 阶段 13 · 风险、科学与人才（SAM-0136 → 0148）
+
+- [ ] **SAM-0136 · 解释**
+  > "Most of the time, we worry far too much about tail risk."
+  用自己的话说：作者认为人们对哪一类风险判断错了？一句话。
+
+- [ ] **SAM-0137 · 应用**
+  > "For whatever reason, we seem to be wired to overweight the risk of the dramatic, scary, but very unlikely"
+  想一件你最近担心的事：它是戏剧性的小概率，还是平常的高概率风险？写一句话。
+
+- [ ] **SAM-0138 · 边界**
+  文章说有些尾部风险确实值得担心。你会用什么标准区分"值得担心"和"杞人忧天"？一句话。
+
+- [ ] **SAM-0139 · 解释**
+  > "This shared trait is a connection between the online and the physical worlds."
+  用自己的话说：文章认为成功的公司有什么共同特点？一句话。
+
+- [ ] **SAM-0140 · 应用**
+  > "the key thing is enabling users to do things they do in real life much more easily"
+  你的想法（或假想的产品）能让用户在现实中少做哪件麻烦事？写一句话。
+
+- [ ] **SAM-0141 · 读断**
+  > "I have never seen a field focused on one problem with such ferocity before."
+  作者在疫情中看到科研界的反应，他的主要感受是什么？回复一个词：`失望` / `惊叹`。
+
+- [ ] **SAM-0142 · 回忆**
+  不看原文：作者认为疫情期间政府应该在哪一方面多投入？一句话。
+
+- [ ] **SAM-0143 · 解释**
+  > "The best people in both groups spend a lot of time reflecting on some version of the Hamming question"
+  用自己的话说：作者所说的"Hamming 问题"是什么？一句话。
+
+- [ ] **SAM-0144 · 应用**
+  > "the best people do it the most"
+  写下你所在领域里你认为最重要的一个问题（不必解决它），一句话。
+
+- [ ] **SAM-0145 · 解释**
+  > "The entire secret to YC getting going was PG and Jessica—there was no other magic trick."
+  用自己的话说：作者认为 YC 成功的关键是什么？为什么别人很难复制？一句话。
+
+- [ ] **SAM-0146 · 边界**
+  文章说很难复制 YC。如果你想建一个类似的社区，你会先找谁？一句话。
+
+- [ ] **SAM-0147 · 解释**
+  > "The natural state of a start-up is to die"
+  用自己的话说：作者为什么说"创业的自然状态是死亡"？一句话。
+
+- [ ] **SAM-0148 · 应用**
+  > "If you build something good, people will help you."
+  你最近有没有需要别人帮忙却没开口的事？写下你可以去请求帮助的人的身份（不必写名字），一句话。
+
+- [ ] **SAM-0149 · 解释**
+  > "Although it takes many, many years to become a great hacker, you can learn to be good enough to build your site or app in a few months."
+  用自己的话说：作者为什么建议非技术创始人自己学编程？一句话。
+
+- [ ] **SAM-0150 · 应用**
+  如果你的项目缺一个技术合伙人，你能否在三个月内自己做出一个可用的版本？写下 `能` / `不能`，并写一个具体的第一步。
+
+- [ ] **SAM-0151 · 解释**
+  > "It’s dangerous to spend all your mental energy on incremental improvements when what you really need is a step change."
+  用自己的话说：作者担心的是什么？一句话。
+
+- [ ] **SAM-0152 · 边界**
+  > "This is great, but only if the business is already working."
+  什么情况下，A/B 测试和转化优化才真正有价值？一句话。
+
+- [ ] **SAM-0153 · 解释**
+  > "It's very tough to keep going when everyone tells you your idea sucks and it will never work"
+  用自己的话说：文章认为 endurance（坚持）为什么重要？一句话。
+
+- [ ] **SAM-0154 · 回忆**
+  不看原文：文章说，大多数创业公司不是被竞争对手打死的，那它们通常怎么死？写一种。
+
+- [ ] **SAM-0155 · 应用**
+  > "You can win by endurance."
+  你现在哪件事最需要再坚持两周？写一句话。
+
+- [ ] **SAM-0156 · 读断**
+  > "Only after that they should focus on growth above all else."
+  作者认为增长应该排在什么阶段？回复 `一开始` / `产品让用户喜欢之后`。
+
+- [ ] **SAM-0157 · 应用**
+  > "A startup that prematurely targets a growth goal often ends up making a nebulous product"
+  写下你现在的主要指标。它是在用户真正喜欢产品之前就定下的吗？回复 `是` / `不是`，加一句理由。
+
+- [ ] **SAM-0158 · 解释**
+  > "being cheap with equity grants is among the worst"
+  用自己的话说：作者认为哪一种做法会让招工更困难？一句话。
+
+- [ ] **SAM-0159 · 应用**
+  > "Granting equity should be easy to do."
+  写下你计划给下一位工程师的股权比例，并判断它是"容易给出"还是"吝啬"。一句话。
+
+- [ ] **SAM-0160 · 解释**
+  > "a combination of focus and personal connections"
+  用自己的话说：作者认为"事情怎么做成"的最好理论是什么？一句话。
+
+- [ ] **SAM-0161 · 应用**
+  > "Most early-stage startup founders do a bad job of getting the company to focus on just two or three critical priorities"
+  写下你团队本周的优先事项。如果超过三个，删到三个。
+
+- [ ] **SAM-0162 · 解释**
+  > "The critical point is that you want to do the thing that is most likely to get you on a path to do something great."
+  用自己的话说：作者给 19 岁年轻人的核心建议是什么？一句话。
+
+- [ ] **SAM-0163 · 应用**
+  > "No matter what you choose, build stuff and be around smart people."
+  你这周能做的一件具体的东西是什么？写一句话。
