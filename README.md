@@ -5,7 +5,11 @@
 我们梳理了 [blog.samaltman.com](https://blog.samaltman.com) 的 121 篇文章（2013–2026），
 从中提炼出 85 条金句，再拆成 **204 个一分钟内能做完的小任务**。
 
+<p align="center"><img src="figures/coverage-donut.png" width="420" alt="121 篇文章的覆盖情况：已覆盖 94 篇，不适用 25 篇，待写 2 篇"></p>
+
 ## 怎么用
+
+<p align="center"><img src="figures/usage-flow.png" width="220" alt="使用流程：打开 NOW.md，做 TASKS.md 中的任务，打勾，进度记在 PROGRESS.md"></p>
 
 1. 打开 [`NOW.md`](NOW.md) 看当前任务
 2. 到 [`track-sam/TASKS.md`](track-sam/TASKS.md) 做它（≤1 分钟）
