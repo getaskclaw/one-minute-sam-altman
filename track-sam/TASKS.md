@@ -20,7 +20,7 @@
 
 - [ ] **SAM-0003 · 解释**
   > "forming a company is the easiest way to do so."
-  作者说，开公司是做成"更像宗教的东西"最容易的方式。用一句话说：开公司能给创始人什么，让这件事变得更容易？
+  作者说，开公司是做成"更像宗教的东西"最容易的方式。用一句话说：开公司能培养创始人的什么能力，这种能力为什么能帮助做成大目标？
   来源：[Successful people](https://blog.samaltman.com/successful-people)
 
 - [ ] **SAM-0004 · 读断**
