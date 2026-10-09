@@ -15,7 +15,7 @@
 
 - [ ] **SAM-0002 · 读断**
   > "They are on a mission to create something closer to a religion, and at some point it turns out that forming a company is the easiest way to do so."
-  这句里，"大目标"和"开公司"哪个是目标，哪个是方式？回复 `目标` 或 `方式`。
+  句子说开公司是"最容易的方式"（the easiest way）。这是说开公司是唯一的途径吗？回复 `是` 或 `不是`。
   来源：[Successful people](https://blog.samaltman.com/successful-people)
 
 - [ ] **SAM-0003 · 解释**
