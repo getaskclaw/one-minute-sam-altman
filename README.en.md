@@ -22,8 +22,7 @@ The study guide ([`LESSONS.md`](LESSONS.md)) is in Chinese.
 | `NOW.md` | Which task is current |
 | `LESSONS.md` | 70 annotated lessons (中文) |
 | `GEMS.md` | 60+ quotes, each linked to its post |
-| `posts.json` | Full corpus of all 121 posts |
 
 ## Source
 
-Posts mirrored from the public feed `blog.samaltman.com/posts.atom`. Content copyright Sam Altman; this repo is a study aid.
+Quotes and lessons are based on Sam Altman's blog (public feed `blog.samaltman.com/posts.atom`). Content copyright Sam Altman; this repo keeps short quotes with links to the original posts and does not republish full text.

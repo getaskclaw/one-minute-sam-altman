@@ -22,11 +22,10 @@
 | `NOW.md` | 当前该做哪个任务 |
 | `LESSONS.md` | 70 条精读笔记（中文） |
 | `GEMS.md` | 60+ 金句原文，各带原文链接 |
-| `posts.json` | 121 篇全文语料（给程序用） |
 
 ## 来源
 
-文章来自公开 feed `blog.samaltman.com/posts.atom`，原文版权归 Sam Altman 所有，本仓仅作学习笔记。
+金句与讲解基于 Sam Altman 博客（公开 feed `blog.samaltman.com/posts.atom`）。原文版权归 Sam Altman 所有，本仓只收录短引文并附原文链接，不再附全文。
 
 ---
 
