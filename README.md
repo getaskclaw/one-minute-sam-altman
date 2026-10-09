@@ -5,6 +5,7 @@ Notes and data from [blog.samaltman.com](https://blog.samaltman.com) — Sam Alt
 ## Contents
 
 - **`GEMS.md`** — curated quotes, organized by theme, each linked to its source post
+- **`LESSONS.md`** — 逐条精读（中文讲解）：原文 + 翻译 + 解读 + 怎么用
 - **`posts.json`** — full corpus: title, URL, publish date, and HTML content for all 121 posts
 
 ## Data source
