@@ -1,9 +1,9 @@
 # one-minute-sam-altman
 
-**每天 1 分钟，学完 Sam Altman 博客里最值钱的想法。**
+**每次 1 分钟，学 Sam Altman 博客里最值钱的想法。**
 
-我们把 [blog.samaltman.com](https://blog.samaltman.com) 全部 121 篇文章（2013–2026）读完，
-提炼出 60+ 条金句，再拆成 **204 个一分钟内能做完的小任务**。
+我们梳理了 [blog.samaltman.com](https://blog.samaltman.com) 的 121 篇文章（2013–2026），
+从中提炼出 85 条金句，再拆成 **204 个一分钟内能做完的小任务**。
 
 ## 怎么用
 
@@ -21,7 +21,7 @@
 | `track-sam/` | 学习路线：任务 + 进度 |
 | `NOW.md` | 当前该做哪个任务 |
 | `LESSONS.md` | 70 条精读笔记（中文） |
-| `GEMS.md` | 60+ 金句原文，各带原文链接 |
+| `GEMS.md` | 85 条金句原文，各带原文链接 |
 
 ## 来源
 

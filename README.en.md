@@ -2,8 +2,8 @@
 
 **Learn the best ideas from Sam Altman's blog, one minute at a time.**
 
-We read all 121 posts on [blog.samaltman.com](https://blog.samaltman.com) (2013–2026),
-distilled 60+ quotes worth keeping, and split them into **204 tasks that each take under a minute**.
+We went through the 121 posts on [blog.samaltman.com](https://blog.samaltman.com) (2013–2026),
+distilled 85 quotes worth keeping, and split them into **204 tasks that each take under a minute**.
 
 ## How to use it
 
@@ -21,7 +21,7 @@ The study guide ([`LESSONS.md`](LESSONS.md)) is in Chinese.
 | `track-sam/` | The learning track: tasks + progress |
 | `NOW.md` | Which task is current |
 | `LESSONS.md` | 70 annotated lessons (中文) |
-| `GEMS.md` | 60+ quotes, each linked to its post |
+| `GEMS.md` | 85 quotes, each linked to its post |
 
 ## Source
 
