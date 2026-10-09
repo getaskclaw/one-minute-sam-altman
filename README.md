@@ -1,6 +1,6 @@
-# 一分钟读懂 Sam Altman
+# 一分钟学习法 × Sam Altman 博客
 
-**每个任务一分钟以内，慢慢读懂 Sam Altman 博客里的想法。**
+**为 ADHD 大脑设计的一分钟学习法 × Sam Altman 博客：121 篇（2013–2026）逐条精读，每条 1 分钟——原文金句 + 中文讲解 + 怎么用。语料来自公开 Atom feed，原文版权归 Sam Altman 所有。**
 
 我们梳理了 [blog.samaltman.com](https://blog.samaltman.com) 的 121 篇文章（2013–2026），
 从中挑出 85 条金句，拆成 **204 个一分钟以内能做完的小任务**。
