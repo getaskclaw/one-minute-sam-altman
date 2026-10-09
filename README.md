@@ -6,7 +6,7 @@
 从中挑出 85 条金句，拆成 **204 个一分钟以内能做完的小任务**。
 全部任务加起来不超过约 3.5 小时（只是任务时间，不代表掌握）。
 
-<p align="center"><img src="figures/coverage-donut.png" width="420" alt="121 篇文章的覆盖情况：已覆盖 94 篇，不适用 25 篇，待写 2 篇"></p>
+<p align="center"><img src="figures/coverage-donut.png" width="460" alt="121 篇文章的覆盖情况：已覆盖 94 篇，不适用 25 篇，待写 2 篇"></p>
 
 ## 适合注意力容易分散的人（包括 ADHD）
 

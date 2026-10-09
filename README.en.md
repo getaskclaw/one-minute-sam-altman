@@ -6,7 +6,7 @@ We went through the 121 posts on [blog.samaltman.com](https://blog.samaltman.com
 We picked 85 good quotes and made **204 small tasks**. Each task takes one minute or less.
 All 204 tasks together take 3.4 hours at most. That is task time only, not mastery.
 
-<p align="center"><img src="figures/coverage-donut-en.png" width="420" alt="Coverage of 121 posts: 94 covered, 25 not applicable, 2 to write"></p>
+<p align="center"><img src="figures/coverage-donut-en.png" width="460" alt="Coverage of 121 posts: 94 covered, 25 not applicable, 2 to write"></p>
 
 ## Good for short focus, including ADHD
 
