@@ -8,7 +8,7 @@
 
 ## 阶段 1 · 格局（SAM-0001 → 0010）
 
-- [ ] **SAM-0001 · 读断**
+- [x] **SAM-0001 · 读断**
   > "Successful people create companies. More successful people create countries. The most successful people create religions."
   三层里，哪一层改变的是"人相信什么"而不只是"人做什么"？回复一个词：`公司` / `国家` / `宗教`。
   来源：[Successful people](https://blog.samaltman.com/successful-people)
