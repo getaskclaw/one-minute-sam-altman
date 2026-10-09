@@ -6,4 +6,4 @@
 
 | Track | 状态 | 进度 | 下一个 |
 |---|---|---|---|
-| [track-sam](track-sam/) — Sam Altman 金句精读（≤1分钟/任务） | active | 0 / 77 | SAM-0001 |
+| [track-sam](track-sam/) — Sam Altman 金句精读（≤1分钟/任务） | active | 0 / 204 | SAM-0001 |

@@ -3,7 +3,7 @@
 **Learn the best ideas from Sam Altman's blog, one minute at a time.**
 
 We read all 121 posts on [blog.samaltman.com](https://blog.samaltman.com) (2013–2026),
-distilled 60+ quotes worth keeping, and split them into **77 tasks that each take under a minute**.
+distilled 60+ quotes worth keeping, and split them into **204 tasks that each take under a minute**.
 
 ## How to use it
 
