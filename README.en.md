@@ -3,8 +3,8 @@
 **Learn the best ideas from Sam Altman's blog, one task of one minute or less at a time.**
 
 We went through the 121 posts on [blog.samaltman.com](https://blog.samaltman.com) (2013–2026).
-We picked 85 good quotes and made **204 small tasks**. Each task takes one minute or less.
-All 204 tasks together take 3.4 hours at most. That is task time only, not mastery.
+We picked 85 good quotes and made **205 small tasks**. Each task takes one minute or less.
+All 205 tasks together take 3.4 hours at most. That is task time only, not mastery.
 
 <p align="center"><img src="figures/coverage-donut-en.png" width="460" alt="Coverage of 121 posts: 94 covered, 25 not applicable, 2 to write"></p>
 
