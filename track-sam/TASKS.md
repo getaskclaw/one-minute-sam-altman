@@ -461,3 +461,84 @@
 - [ ] **SAM-0114 · 应用**
   > "Taking uberX everywhere is now cheaper for me than owning a car"
   选一项你的大开支（车、房、订阅等），用同样的方法算一下"租用"和"拥有"哪个划算。写一句结论。
+
+## 阶段 12 · AI 与技术（SAM-0115 → 0135）
+
+- [ ] **SAM-0115 · 解释**
+  > "AI has not worked for so long that it’s acquired a bad reputation."
+  用自己的话说：作者认为人们对 AI 悲观的原因是什么？一句话。
+
+- [ ] **SAM-0116 · 边界**
+  > "But artificial general intelligence might work, and if it does, it will be the biggest development in technology ever."
+  作者一边说 AI 大概率行不通，一边说 AGI 如果成功会是最大的技术进步。这两句话怎么同时成立？一句话。
+
+- [ ] **SAM-0117 · 读断**
+  > "It is extremely hard to put a timeframe on when this will happen"
+  作者认为超级机器智能（SMI）什么时候出现？回复 `很快` / `很难确定时间`。
+
+- [ ] **SAM-0118 · 解释**
+  > "SMI does not have to be the inherently evil sci-fi version to kill us all."
+  用自己的话说：作者为什么说 SMI 不必"邪恶"也可能威胁人类？一句话。
+
+- [ ] **SAM-0119 · 解释**
+  > "In an ideal world, regulation would slow down the bad guys and speed up the good guys"
+  用自己的话说：作者为什么支持对 SMI 的开发进行监管？一句话。
+
+- [ ] **SAM-0120 · 边界**
+  > "Although my general belief is that technology is often over-regulated, I think some regulation is a good thing"
+  作者一方面反对过度监管，一方面支持监管。他区分的是什么？一句话。
+
+- [ ] **SAM-0121 · 回忆**
+  不看原文：文章用什么方法说明"预测技术极限很难"？一句话。
+
+- [ ] **SAM-0122 · 解释**
+  > "Technology provides leverage on ability and luck, and in the process concentrates wealth and drives inequality."
+  用自己的话说：技术为什么会扩大财富差距？一句话。
+
+- [ ] **SAM-0123 · 应用**
+  > "I think that drastic wealth inequality is likely to be one of the biggest social problems of the next 20 years."
+  如果你在做一家公司，它能让多少人受益而不只是少数人？写一句话，说出一个方向。
+
+- [ ] **SAM-0124 · 解释**
+  > "But many very important things start out looking as if they don’t matter, and so it’s a very bad mistake to dismiss everything that looks trivial."
+  用自己的话说：作者怎么看待"看起来没用"的东西？一句话。
+
+- [ ] **SAM-0125 · 应用**
+  > "I’ve never met anyone in my life that has a good intuition for hyperexponential growth"
+  挑一个你最近在用的产品，它的用户增长大致是线性还是指数？写一句你的判断依据。
+
+- [ ] **SAM-0126 · 读断**
+  > "many of the most important companies start out looking trivial"
+  按这句话，"看起来简单"能不能作为一家公司没有价值的依据？回复 `能` / `不能`，加一句理由。
+
+- [ ] **SAM-0127 · 解释**
+  > "lots of the YC B2B startups are now building software to help non-technical people in companies"
+  用自己的话说：这类创业公司的客户，从"公司里的开发者"变成了谁？一句话。
+
+- [ ] **SAM-0128 · 解释**
+  > "I believe that if you could choose one single technological development to help the most people in the world, radically better energy generation is probably it."
+  用自己的话说：作者为什么认为能源是最重要的技术方向？一句话。
+
+- [ ] **SAM-0129 · 应用**
+  写下一个你每天消耗能源的地方（家、办公室、交通），如果能源便宜 10 倍，你会改变哪一个习惯？一句话。
+
+- [ ] **SAM-0130 · 解释**
+  > "deep reinforcement learning can solve extremely hard problems whenever you can throw enough computing scale and a really good simulated environment"
+  用自己的话说：按作者的说法，强化学习要解决难题需要哪两个条件？
+
+- [ ] **SAM-0131 · 边界**
+  文章的方法依赖"好的模拟环境"。现实中哪一类问题很难做模拟？写一个例子，一句话。
+
+- [ ] **SAM-0132 · 解释**
+  > "As AI gets smarter, access to AI will be a fundamental driver of the economy"
+  用自己的话说：作者为什么认为"能不能用上 AI"会变得很重要？一句话。
+
+- [ ] **SAM-0133 · 读断**
+  > "If we are limited by compute, we’ll have to choose which one to prioritize"
+  按作者的说法，算力有限时要做的是什么？回复一个词：`取舍` / `扩张`。
+
+- [ ] **SAM-0134 · 回忆**
+  不看原文：作者说，OpenAI 成立的初衷是什么？一句话。
+
+- [ ] **SAM-0135 · 应用**
+  文章列出了多个"当年被认为不会成功"的预测案例。下次你听到"某技术永远做不成"时，你会问自己什么问题？一句话。
