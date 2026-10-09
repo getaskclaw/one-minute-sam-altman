@@ -134,14 +134,7 @@
 
 ## 已知问题
 
-- `LESSONS.md` 与 `TASKS.md` 早期卡片（阶段 1–9）的引文没有链接，只能靠文字匹配找到出处。
-- 以下引文在语料中找不到原样（多为两句拼接或改写），需要改成原文或标注为改写。阶段 10 以后新增的卡片已逐字校验通过：
-  - "The most successful founders do not set out to create companies... forming a company is the easiest way to do so."
-  - "You are far better off starting a company that people laugh at but keeps growing relentlessly than a company with a beautiful office... always two quarters away."
-  - "Project yourself 20 years into the future, then think backwards."
-  - "Truth-seeking... is what separates self-belief from self-delusion."
-  - "Look for small bets where you lose 1x if you're wrong but make 100x if it works."
-  - "You can get to about the 90th percentile by working either smart or hard... the 99th percentile requires both."
-  - "If intelligence and determination are evenly distributed, less than 5% of the best founders are born in the US."
-  - "Almost no one in the history of the Forbes list has gotten there with a salary... Time only scales linearly."
-  - "The best ideas are barely possible to express at all... won't let the best ideas get past the fragment stage."
+- `LESSONS.md` 的引文仍然没有链接；`TASKS.md` 的 204 张卡片已全部补上来源行，并逐条对照过原文。
+- 阶段 1–9 原有的 9 条拼接引文已改为带省略号（……）的节选，或改成原文中的逐字片段，并通过校验。
+- 部分引文同时出现在多篇文章里，来源按最先匹配到的文章标注（例如 "you build what you measure" 标为 *Value is created by doing*）。
+- 阶段 5 与毕业测的回忆题是综合复习，没有单一来源，已标注为"综合"。
