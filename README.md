@@ -1,19 +1,23 @@
-# sam_blog
+# one-minute-sam-altman
 
-Notes and data from [blog.samaltman.com](https://blog.samaltman.com) — Sam Altman's personal blog (Posthaven-hosted, 121 posts, 2013–2026).
+为 ADHD 大脑设计的一分钟学习法 × [Sam Altman 博客](https://blog.samaltman.com/)（Posthaven 托管，121 篇，2013–2026）的精读笔记与语料。
 
-## Contents
+## 内容
 
-- **`GEMS.md`** — curated quotes, organized by theme, each linked to its source post
-- **`LESSONS.md`** — 逐条精读（中文讲解）：原文 + 翻译 + 解读 + 怎么用
-- **`posts.json`** — full corpus: title, URL, publish date, and HTML content for all 121 posts
+- **`GEMS.md`** — 金句集：按主题整理，每条链回原文
+- **`LESSONS.md`** — 逐条精读（中文讲解）：原文 + 翻译 + 解读 + 怎么用，每条 1 分钟读完
+- **`posts.json`** — 全量语料：121 篇文章的标题、URL、发布日期和 HTML 正文
 
-## Data source
+## 数据来源
 
-Content mirrored from the public Atom feed (`https://blog.samaltman.com/posts.atom`) and post pages. Corpus structure:
+内容镜像自公开 Atom feed（`https://blog.samaltman.com/posts.atom`）及各文章页面。语料结构：
 
 ```json
 [{ "title": "...", "url": "...", "published": "YYYY-MM-DD", "content": "<html>", "content_len": 1234 }]
 ```
 
-Blog content copyright Sam Altman. This repo is a reading/research aid.
+博客原文版权归 Sam Altman 所有，本仓仅作阅读/研究辅助。
+
+---
+
+English: [README.en.md](README.en.md)
