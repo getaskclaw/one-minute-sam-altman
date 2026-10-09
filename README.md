@@ -7,6 +7,8 @@
 - **`GEMS.md`** — 金句集：按主题整理，每条链回原文
 - **`LESSONS.md`** — 逐条精读（中文讲解）：原文 + 翻译 + 解读 + 怎么用，每条 1 分钟读完
 - **`posts.json`** — 全量语料：121 篇文章的标题、URL、发布日期和 HTML 正文
+- **`track-sam/`** — ≤1 分钟微学习路线（adaptive-microlearning 规范）：`TASKS.md` 77 个任务、`PROGRESS.md` 进度真相源
+- **`NOW.md`** — 全局当前任务指针
 
 ## 数据来源
 
